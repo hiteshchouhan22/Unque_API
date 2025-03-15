@@ -2,20 +2,6 @@
 
 A simple REST API for managing appointments between students and professors.
 
-## Features
-
-- User authentication (students and professors)
-- Professor availability management
-- Appointment booking system
-- Appointment cancellation
-- View appointments and available slots
-
-## Prerequisites
-
-- Node.js (v14 or higher)
-- MongoDB (v4.4 or higher)
-- npm or yarn package manager
-
 ## Setup
 
 1. Clone the repository
